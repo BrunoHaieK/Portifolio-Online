@@ -6,4 +6,4 @@ Projeto simples feito utilizando as tecnologias HTML5 e CSS3
 - Github: [@brunohaiek](https://github.com/brunohaiek)
 
 ## Resultado final:
-<img src="https://user-images.githubusercontent.com/86637923/166554674-5d2fbd32-0555-45d1-ac00-6f29a08b65ae.png" width="600px"/>
+<img src="https://user-images.githubusercontent.com/86637923/166563032-e0627b6c-64a9-454a-8136-85db4e8fc472.png" width="500px"/>
